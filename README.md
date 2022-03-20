@@ -1,6 +1,6 @@
 # Resource-Optimization-
 
-This project explained how we can use simple statistics and simulation methods to find the best resource needed for a particular project.
+This project explained how linear algebra and simulation methods is used to find the best resource needed for a particular project.
 
 Based on a given pool of resources with certain parameters for each resource, this model will help to identify the best team of required resources based on given constraints.
  
