@@ -13,3 +13,4 @@ Data and Model: I have used Advanced Simulation method and descriptive statistic
 
 Conclusion:
 With the help of optimization model our client was able to select best resources with minimum cost for the project, and was able to achieve maximum quality results for their projects. 
+![newplot](https://user-images.githubusercontent.com/50954720/173638243-a9e1b664-1824-48c7-819d-e8a5f3dfdad0.png)
