@@ -13,4 +13,6 @@ Data and Model: I have used Advanced Simulation method and descriptive statistic
 
 Conclusion:
 With the help of optimization model our client was able to select best resources with minimum cost for the project, and was able to achieve maximum quality results for their projects. 
+
+User can see that each dot is combination of resources. It also gives idea how much total project cost, points per sprint, and motivational factor for each combination. 
 ![newplot](https://user-images.githubusercontent.com/50954720/173638243-a9e1b664-1824-48c7-819d-e8a5f3dfdad0.png)
