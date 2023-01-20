@@ -23,5 +23,9 @@ With the help of the optimization model, our client was able to select the best 
 
 :loudspeaker: Here presented data is Dummy.
 
-User can see that each dot is combination of resources. It also gives idea how much total project cost, points per sprint, and motivational factor for each combination. 
-![newplot](https://user-images.githubusercontent.com/50954720/173638243-a9e1b664-1824-48c7-819d-e8a5f3dfdad0.png)
+User can see that each dot is combination of resources. It also gives idea how much total project cost, points per sprint, and motivational factor for each combination.
+Tool Intergartion:
+![image](https://user-images.githubusercontent.com/50954720/213775511-185ee31f-c08c-4d9c-8783-4c04c641aa74.png)
+
+![image](https://user-images.githubusercontent.com/50954720/213775433-fa9d31f5-227b-4605-b9e3-e6a193927e9d.png)
+
